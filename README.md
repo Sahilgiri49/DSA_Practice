@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1470-shuffle-the-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1528-shuffle-string) |
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3794-reverse-string-prefix](https://github.com/Sahilgiri49/DSA_Practice/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
