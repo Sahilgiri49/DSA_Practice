@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0268-missing-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## String
 |  |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0268-missing-number) |
 | [1470-shuffle-the-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1528-shuffle-string) |
 ## Two Pointers
@@ -28,12 +30,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0231-power-of-two) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
