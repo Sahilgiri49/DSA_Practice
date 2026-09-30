@@ -1,11 +1,10 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        // Intuition: after sorting, nums[i] should equal i
         int n = nums.length;
-        Arrays.sort(nums);
-        for (int i = 0; i < n; i++) {
-            if (nums[i] != i) return i;
+        int max = n*(n+1)/2;
+        for(int i : nums){
+            max -= i;
         }
-        return n;
+        return max;
     }
 }
