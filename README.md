@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0027-remove-element) |
 | [0268-missing-number](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1528-shuffle-string) |
 ## Two Pointers
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0283-move-zeroes) |
 | [3794-reverse-string-prefix](https://github.com/Sahilgiri49/DSA_Practice/tree/master/3794-reverse-string-prefix) |
 ## Math
 |  |
