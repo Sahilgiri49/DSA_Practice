@@ -6,11 +6,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0268-missing-number](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0268-missing-number) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2716-minimize-string-length](https://github.com/Sahilgiri49/DSA_Practice/tree/master/2716-minimize-string-length) |
 ## String
 |  |
 | ------- |
 | [1528-shuffle-string](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2716-minimize-string-length](https://github.com/Sahilgiri49/DSA_Practice/tree/master/2716-minimize-string-length) |
 | [3794-reverse-string-prefix](https://github.com/Sahilgiri49/DSA_Practice/tree/master/3794-reverse-string-prefix) |
 ## Array
 |  |
