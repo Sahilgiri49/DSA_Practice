@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1470-shuffle-the-array) |
 | [1528-shuffle-string](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1528-shuffle-string) |
 | [1720-decode-xored-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1720-decode-xored-array) |
+| [3379-transformed-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/3379-transformed-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [3379-transformed-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/3379-transformed-array) |
 <!---LeetCode Topics End-->
