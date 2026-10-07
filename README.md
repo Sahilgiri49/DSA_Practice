@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1528-shuffle-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2716-minimize-string-length](https://github.com/Sahilgiri49/DSA_Practice/tree/master/2716-minimize-string-length) |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3379-transformed-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/3379-transformed-array) |
+## Stack
+|  |
+| ------- |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 <!---LeetCode Topics End-->
