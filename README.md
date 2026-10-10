@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
