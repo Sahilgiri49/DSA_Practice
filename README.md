@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0283-move-zeroes) |
 | [1470-shuffle-the-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1470-shuffle-the-array) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0007-reverse-integer) |
+| [0066-plus-one](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0066-plus-one) |
 | [0231-power-of-two](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
