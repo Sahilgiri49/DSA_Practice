@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0067-add-binary) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1528-shuffle-string](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1528-shuffle-string) |
@@ -48,11 +49,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0268-missing-number) |
 | [1720-decode-xored-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/1720-decode-xored-array) |
@@ -73,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sahilgiri49/DSA_Practice/tree/master/0067-add-binary) |
 | [3379-transformed-array](https://github.com/Sahilgiri49/DSA_Practice/tree/master/3379-transformed-array) |
 ## Stack
 |  |
